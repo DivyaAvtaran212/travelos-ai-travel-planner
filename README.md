@@ -54,6 +54,7 @@ Coming soon.
 
 ### Backend
 
+
 - Java
 - Spring Boot
 - Spring Security
@@ -85,4 +86,4 @@ ai-service/     AI and RAG services
 infrastructure/ Docker and infrastructure configuration
 docs/           Architecture and technical documentation
 scripts/        Development and utility scripts
-.github/        CI/CD workflows
+.github/        CI/CD workflows 
